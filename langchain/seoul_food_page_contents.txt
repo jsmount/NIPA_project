@@ -1,0 +1,1500 @@
+name: 몽탄
+category: 고기요리
+rating: 별점 4.46
+address: 서울 용산구 백범로99길 50
+
+name: 런던베이글뮤지엄 안국점
+category: 베이커리
+rating: 방문자 리뷰 8113
+address: 서울 종로구 북촌로4길 20
+
+name: 육지
+category: 고기요리
+rating: 별점 4.76
+address: 서울 마포구 독막로3길 34 1F
+
+name: 쌤쌤쌤
+category: 양식
+rating: 별점 4.39
+address: 서울 용산구 한강대로50길 25 1층
+
+name: 금돼지식당
+category: 돼지고기구이
+rating: 별점 4.4
+address: 서울 중구 다산로 149
+
+name: 고베규카츠 서울 강남점
+category: 돈가스
+rating: 방문자 리뷰 6527
+address: 서울 강남구 강남대로102길 29 예촌빌딩
+
+name: 우래옥
+category: 냉면
+rating: 방문자 리뷰 9255
+address: 서울 중구 창경궁로 62-29
+
+name: 남영돈
+category: 돼지고기구이
+rating: 방문자 리뷰 2469
+address: 서울 용산구 한강대로80길 17 남영돈
+
+name: 진주집
+category: 국수
+rating: 별점 4.4
+address: 서울 영등포구 국제금융로6길 33 지하 1층
+
+name: 난포
+category: 한식
+rating: 방문자 리뷰 4693
+address: 서울 성동구 서울숲4길 18-8 지층
+
+name: 대련집
+category: 칼국수
+rating: 별점 4.36
+address: 서울 종로구 종로16길 37
+
+name: 고베규카츠 건대점
+category: 돈가스
+rating: 방문자 리뷰 4936
+address: 서울 광진구 아차산로33길 64
+
+name: 테디뵈르하우스 용산점
+category: 카페
+rating: 방문자 리뷰 8821
+address: 서울 용산구 한강대로40가길 42 1층
+
+name: 스태픽스
+category: 카페
+rating: 별점 4.31
+address: 서울 종로구 사직로9길 22 102호
+
+name: 소문난성수감자탕
+category: 감자탕
+rating: 별점 4.4
+address: 서울 성동구 연무장길 45
+
+name: 오레노라멘 본점
+category: 일본식라면
+rating: 별점 4.54
+address: 서울 마포구 독막로6길 14
+
+name: 진저베어
+category: 카페
+rating: 방문자 리뷰 5081
+address: 서울 송파구 백제고분로41길 43-7 1층
+
+name: 연하동 연남본점
+category: 일식당
+rating: 별점 4.48
+address: 서울 마포구 연남로 6
+
+name: 우와
+category: 일식당
+rating: 별점 4.43
+address: 서울 마포구 와우산로21길 21-16 2층
+
+name: 명동교자 본점
+category: 칼국수
+rating: 별점 4.42
+address: 서울 중구 명동10길 29
+
+name: 진미평양냉면
+category: 냉면
+rating: 별점 4.32
+address: 서울 강남구 학동로 305-3
+
+name: 능동미나리
+category: 한식
+rating: 방문자 리뷰 1913
+address: 서울 용산구 한강대로40길 28 1, 2층
+
+name: 미쁘동 연남본점
+category: 일식당
+rating: 별점 4.42
+address: 서울 마포구 동교로38길 33-21 2층
+
+name: 제스티살룬 성수
+category: 햄버거
+rating: 별점 4.51
+address: 서울 성동구 서울숲4길 13 1층 제스티살룬
+
+name: 청수당 베이커리
+category: 카페
+rating: 별점 4.39
+address: 서울 종로구 돈화문로11나길 31-9
+
+name: 꽁티드툴레아
+category: 브런치
+rating: 방문자 리뷰 4481
+address: 서울 강남구 도산대로49길 39
+
+name: 광화문미진
+category: 한식
+rating: 별점 4.39
+address: 서울 종로구 종로 19
+
+name: 진주회관
+category: 국수
+rating: 별점 4.3
+address: 서울 중구 세종대로11길 26
+
+name: 또순이네집
+category: 소고기구이
+rating: 별점 4.26
+address: 서울 영등포구 선유로47길 16 오오1004빌딩
+
+name: 진작다이닝 성수점
+category: 일식당
+rating: 별점 4.55
+address: 서울 성동구 왕십리로14나길 10
+
+name: 우동 카덴
+category: 우동
+rating: 별점 4.23
+address: 서울 마포구 양화로7안길 2-1
+
+name: 산청숯불가든 을지로
+category: 고기요리
+rating: 방문자 리뷰 4111
+address: 서울 중구 을지로 114-6 1층
+
+name: 까폼
+category: 태국음식
+rating: 별점 4.51
+address: 서울 강남구 선릉로153길 18 지하1층
+
+name: 성수다락
+category: 스파게티
+rating: 별점 4.45
+address: 서울 성동구 뚝섬로9길 20 2층
+
+name: 옥동식
+category: 국밥
+rating: 방문자 리뷰 2365
+address: 서울 마포구 양화로7길 44-10
+
+name: 화목순대국
+category: 순댓국
+rating: 별점 4.31
+address: 서울 영등포구 여의대방로 383 1F (경도상가 1층)
+
+name: 송화산시도삭면
+category: 딤섬
+rating: 별점 4.53
+address: 서울 광진구 뚝섬로27길 48
+
+name: 서울앵무새 성수점
+category: 카페
+rating: 별점 4.49
+address: 서울 성동구 서울숲9길 3 B1~2F
+
+name: 애플하우스
+category: 떡볶이
+rating: 별점 4.34
+address: 서울 동작구 동작대로27다길 29 2층
+
+name: 담택
+category: 일본식라면
+rating: 별점 4.63
+address: 서울 마포구 동교로12안길 51 1층
+
+name: 꺼거
+category: 중식당
+rating: 별점 4.46
+address: 서울 용산구 한강대로48길 10
+
+name: 깡통만두
+category: 만두
+rating: 별점 4.42
+address: 서울 종로구 북촌로2길 5-6 1층
+
+name: 농민백암순대 본점
+category: 순댓국
+rating: 별점 4.51
+address: 서울 강남구 선릉로86길 40-4
+
+name: 핫쵸
+category: 일식당
+rating: 별점 4.46
+address: 서울 강남구 도산대로15길 32-10 지하1층
+
+name: 어글리베이커리
+category: 베이커리
+rating: 방문자 리뷰 10112
+address: 서울 마포구 월드컵로13길 73 1층 어글리 베이커리
+
+name: 교다이야
+category: 우동
+rating: 별점 4.47
+address: 서울 마포구 성지길 39 합정빌딩 1층
+
+name: 삼청동수제비
+category: 한식
+rating: 별점 4.27
+address: 서울 종로구 삼청로 101-1
+
+name: 오스테리아 오르조
+category: 양식
+rating: 별점 4.49
+address: 서울 용산구 한남대로20길 47
+
+name: 필동면옥
+category: 냉면
+rating: 별점 4.25
+address: 서울 중구 서애로 26
+
+name: 중앙해장
+category: 해장국
+rating: 별점 4.42
+address: 서울 강남구 영동대로86길 17 육인빌딩
+
+name: 올디스타코
+category: 멕시코
+rating: 방문자 리뷰 2112
+address: 서울 중구 충무로4길 3 1층 (한신빌딩)
+
+name: 파이프그라운드
+category: 피자
+rating: 별점 4.55
+address: 서울 용산구 한남대로27길 66 지하1층
+
+name: 니커버커베이글 잠실점
+category: 카페
+rating: 방문자 리뷰 5092
+address: 서울 송파구 석촌호수로 268 1층 109~112호
+
+name: 온천집
+category: 샤브샤브
+rating: 별점 4.36
+address: 서울 종로구 돈화문로11나길 31-8
+
+name: 런던베이글뮤지엄 도산점
+category: 베이커리
+rating: 방문자 리뷰 5540
+address: 서울 강남구 언주로168길 33 1, 2층
+
+name: 더숲 초소책방
+category: 카페
+rating: 별점 4.4
+address: 서울 종로구 인왕산로 172
+
+name: 땀땀
+category: 베트남음식
+rating: 방문자 리뷰 7138
+address: 서울 강남구 강남대로98길 12-5
+
+name: 아키비스트
+category: 카페
+rating: 별점 4.5
+address: 서울 종로구 효자로13길 52 1층 아키비스트 서촌
+
+name: 효뜨
+category: 베트남음식
+rating: 별점 4.32
+address: 서울 용산구 한강대로40가길 6 1층 2층
+
+name: 채그로
+category: 북카페
+rating: 별점 4.4
+address: 서울 마포구 마포대로4다길 31
+
+name: 사랑방칼국수
+category: 칼국수
+rating: 별점 4.46
+address: 서울 중구 퇴계로27길 46
+
+name: 아우룸
+category: 이탈리아음식
+rating: 별점 4.71
+address: 서울 마포구 월드컵로5길 33-26 1층
+
+name: 조앤도슨
+category: 카페
+rating: 방문자 리뷰 604
+address: 서울 마포구 동교로41길 31 지층 좌측, 조앤도슨
+
+name: 연교
+category: 딤섬
+rating: 별점 4.48
+address: 서울 마포구 연희로1길 65 1층
+
+name: 황생가칼국수
+category: 칼국수
+rating: 별점 4.32
+address: 서울 종로구 북촌로5길 78
+
+name: 도토리 용산점
+category: 카페
+rating: 방문자 리뷰 4130
+address: 서울 용산구 한강대로52길 25-6 1층
+
+name: 아베베베이커리 서울
+category: 베이커리
+rating: 방문자 리뷰 3853
+address: 서울 종로구 청계천로 201
+
+name: 쵸리상경
+category: 한식
+rating: 별점 4.55
+address: 서울 성동구 서울숲4길 18-8 2층 쵸리상경
+
+name: 카페 산아래
+category: 카페
+rating: 별점 4.48
+address: 서울 강북구 삼양로181길 56 102호
+
+name: 탐광
+category: 일식당
+rating: 별점 4.36
+address: 서울 성동구 연무장5가길 26
+
+name: 꾸아 성수점
+category: 베트남음식
+rating: 별점 4.39
+address: 서울 성동구 왕십리로 94-2 2층
+
+name: 다케오 호르몬 데판야끼
+category: 고기요리
+rating: 방문자 리뷰 1619
+address: 서울 중구 을지로12길 14 1층
+
+name: 소금집델리 안국
+category: 샌드위치
+rating: 별점 4.43
+address: 서울 종로구 북촌로4길 19 1층
+
+name: 도산뚝배기
+category: 한식
+rating: 별점 4.72
+address: 서울 강남구 도산대로54길 18 1층
+
+name: 하니칼국수
+category: 요리주점
+rating: 별점 4.36
+address: 서울 중구 퇴계로 411-15
+
+name: 심퍼티쿠시 용산점
+category: 양식
+rating: 방문자 리뷰 811
+address: 서울 용산구 한강대로52길 17-3 1층
+
+name: 산청숯불가든 마곡
+category: 고기요리
+rating: 방문자 리뷰 3436
+address: 서울 강서구 마곡중앙8로 85 1층 102~108호
+
+name: 카쿠시타
+category: 이자카야
+rating: 별점 4.53
+address: 서울 마포구 동교로38길 33-15 지하1층
+
+name: 란주칼면
+category: 중식당
+rating: 별점 4.44
+address: 서울 중구 소공로 64 1층 란주칼면
+
+name: 리정원 성신여대점
+category: 고기요리
+rating: 별점 4.49
+address: 서울 성북구 동소문로20나길 11 1층
+
+name: 어니언 안국
+category: 카페
+rating: 별점 4.44
+address: 서울 종로구 계동길 5 카페 어니언
+
+name: 해목 논현점
+category: 일식당
+rating: 방문자 리뷰 1316
+address: 서울 강남구 선릉로145길 14
+
+name: 바다회사랑
+category: 생선회
+rating: 별점 4.37
+address: 서울 마포구 동교로27길 60
+
+name: 무탄 압구정 본점
+category: 중식당
+rating: 방문자 리뷰 6628
+address: 서울 강남구 논현로176길 22 1층
+
+name: 구복만두
+category: 만두
+rating: 별점 4.41
+address: 서울 용산구 두텁바위로 7
+
+name: 꾸띠자르당
+category: 패밀리레스토랑
+rating: 별점 4.4
+address: 서울 용산구 보광로 120
+
+name: 경이네건생선
+category: 생선요리
+rating: 별점 4.37
+address: 서울 중구 퇴계로85길 7
+
+name: 을지다락 강남
+category: 양식
+rating: 별점 4.53
+address: 서울 강남구 강남대로96길 22 2층
+
+name: 고트델리 서촌
+category: 샌드위치
+rating: 별점 4.57
+address: 서울 종로구 필운대로5가길 13 1층
+
+name: 칸다소바 경복궁점
+category: 일본식라면
+rating: 별점 4.51
+address: 서울 종로구 자하문로7길 5 1층
+
+name: 테르트르
+category: 카페
+rating: 별점 4.25
+address: 서울 종로구 낙산5길 46
+
+name: 헤키
+category: 돈가스
+rating: 별점 4.56
+address: 서울 마포구 동교로9길 33 1층 헤키
+
+name: 진작
+category: 일식당
+rating: 별점 4.47
+address: 서울 중구 수표로12길 12 1층 진작
+
+name: 배키욘방
+category: 일식당
+rating: 별점 4.64
+address: 서울 송파구 올림픽로32길 22-23 1층
+
+name: 소점
+category: 일식당
+rating: 별점 4.81
+address: 서울 마포구 성미산로17길 99
+
+name: 서촌스코프
+category: 카페
+rating: 별점 4.51
+address: 서울 종로구 필운대로5가길 31 1층 SCOFF
+
+name: 멕시칼리
+category: 멕시코
+rating: 별점 4.68
+address: 서울 광진구 능동로36길 181 1층
+
+name: 텅
+category: 카페
+rating: 방문자 리뷰 1006
+address: 서울 종로구 율곡로 82 701호
+
+name: 잘빠진메밀 서촌 본점
+category: 막국수
+rating: 별점 4.41
+address: 서울 종로구 자하문로11길 4
+
+name: 미미면가 가로수길점
+category: 일식당
+rating: 별점 4.28
+address: 서울 강남구 강남대로160길 29
+
+name: 산수갑산
+category: 순댓국
+rating: 별점 4.28
+address: 서울 중구 을지로20길 24
+
+name: 초이다이닝
+category: "일식당"
+rating: "방문자 리뷰 5758"
+address: 서울 마포구 동교로36길 3 지하1층
+
+name: 단디 잠실본점
+category: 덮밥
+rating: 방문자 리뷰 7435
+address: 서울 송파구 백제고분로45길 7
+
+name: 타마
+category: 덮밥
+rating: 방문자 리뷰 1793
+address: 서울 영등포구 은행로 30 1층
+
+name: 우육미
+category: 고기요리
+rating: 별점 4.3
+address: 서울 중구 퇴계로 373
+
+name: 다몽집 신논현본점
+category: 고기요리
+rating: 별점 4.68
+address: 서울 강남구 강남대로100길 13 지하1층/2층 다몽집
+
+name: 가양칼국수버섯매운탕
+category: 한식
+rating: 별점 4.44
+address: 서울 영등포구 국제금융로 78 홍우빌딩 지하 1층
+
+name: 촌놈
+category: 돼지고기구이
+rating: 별점 4.47
+address: 서울 종로구 대학로8가길 48
+
+name: 고시고시 연남
+category: 퓨전음식
+rating: 방문자 리뷰 1347
+address: 서울 마포구 동교로38길 33-21 1층 고시고시
+
+name: 라무라 합정
+category: 일본식라면
+rating: 별점 4.65
+address: 서울 마포구 포은로 21 1층 라무라 합정
+
+name: 평화연남
+category: 곱창
+rating: 별점 4.36
+address: 서울 마포구 동교로 254-1
+
+name: 꿉당
+category: 고기요리
+rating: 별점 4.51
+address: 서울 서초구 강남대로 615 1층
+
+name: 라프레플루트
+category: 카페,디저트
+rating: 별점 4.73
+address: 서울 성동구 서울숲2길 8-8 2층
+
+name: 커피앤시가렛
+category: 카페
+rating: 별점 4.43
+address: 서울 중구 서소문로 116 유원빌딩17층 1706호
+
+name: 위트앤미트 강남점
+category: 양식
+rating: 방문자 리뷰 2224
+address: 서울 강남구 강남대로110길 32 1층
+
+name: 안암
+category: 한식
+rating: 별점 4.93
+address: 서울 종로구 북촌로5길 10 안암
+
+name: 더 스팟 패뷸러스
+category: 카페
+rating: 별점 4.56
+address: 서울 중구 명동2길 22 1.2층
+
+name: 대한옥
+category: 곰탕
+rating: 별점 4.37
+address: 서울 영등포구 영등포로51길 6 1층 대한옥
+
+name: 카츠바이콘반
+category: 일식당
+rating: 별점 4.58
+address: 서울 강남구 선릉로153길 36 1층
+
+name: 소금집델리 망원
+category: 양식
+rating: 별점 4.45
+address: 서울 마포구 월드컵로19길 14 2층
+
+name: 화육계
+category: 닭발
+rating: 별점 4.35
+address: 서울 중구 을지로14길 21 1층
+
+name: 갓잇 송리단길점
+category: 멕시코
+rating: 방문자 리뷰 6104
+address: 서울 송파구 오금로16길 20 1
+
+name: 을밀대 평양냉면
+category: 냉면
+rating: 별점 4.37
+address: 서울 마포구 숭문길 24
+
+name: 뉴만두집
+category: 만두
+rating: 별점 4.37
+address: 서울 강남구 압구정로 338
+
+name: 대성집
+category: 곰탕
+rating: 별점 4.38
+address: 서울 종로구 사직로 5
+
+name: 임병주산동칼국수
+category: 칼국수
+rating: 별점 4.35
+address: 서울 서초구 강남대로37길 65
+
+name: 현우동
+category: 우동
+rating: 별점 4.35
+address: 서울 강남구 논현로149길 53 래성빌딩 1층
+
+name: 파롤앤랑그
+category: 카페
+rating: 별점 4.45
+address: 서울 마포구 성미산로29안길 8 파롤앤랑그
+
+name: 부자피자 1호점
+category: 피자
+rating: 별점 4.42
+address: 서울 용산구 이태원로55가길 28
+
+name: 르프리크 성수
+category: 햄버거
+rating: 별점 4.55
+address: 서울 성동구 연무장5길 9-16 블루스톤타워 B103
+
+name: 한남동한방통닭
+category: 치킨
+rating: 별점 4.54
+address: 서울 용산구 대사관로34길 38
+
+name: 야키토리 묵
+category: 일식튀김
+rating: 별점 4.7
+address: 서울 마포구 성미산로 165-1 1층 우측
+
+name: 리정원 신촌점
+category: 고기요리
+rating: 방문자 리뷰 2129
+address: 서울 서대문구 명물길 59 1층 리정원
+
+name: 어반플랜트 합정
+category: 브런치카페
+rating: 방문자 리뷰 2707
+address: 서울 마포구 독막로4길 3
+
+name: 오죽이네
+category: 닭요리
+rating: 별점 4.49
+address: 서울 종로구 돈화문로11가길 25
+
+name: 코끼리베이글 영등포
+category: 베이글
+rating: 별점 4.42
+address: 서울 영등포구 선유로 176 코끼리베이글
+
+name: SADDLER HAUS
+category: 와플
+rating: 별점 4.55
+address: 서울 강남구 도산대로17길 10 B1 새들러하우스
+
+name: 은주정
+category: 찌개
+rating: 별점 4.23
+address: 서울 중구 창경궁로8길 32
+
+name: 장인닭갈비 강남점
+category: 닭갈비
+rating: 방문자 리뷰 13574
+address: 서울 강남구 테헤란로1길 19
+
+name: 파이인더샵
+category: 카페
+rating: 방문자 리뷰 1776
+address: 서울 마포구 성미산로27길 26
+
+name: 달마시안 압구정점
+category: 양식
+rating: 방문자 리뷰 2437
+address: 서울 강남구 압구정로42길 42
+
+name: 안주마을
+category: 포장마차
+rating: 별점 4.55
+address: 서울 종로구 자하문로1길 3
+
+name: 미미옥 신용산점
+category: 한식
+rating: 별점 4.45
+address: 서울 용산구 한강대로15길 27
+
+name: 카페 레이어드 안국점
+category: 카페
+rating: 별점 4.39
+address: 서울 종로구 북촌로2길 2-3
+
+name: 어니언 성수카페
+category: 카페
+rating: 별점 4.41
+address: 서울 성동구 아차산로9길 8 어니언
+
+name: 도량
+category: 중식당
+rating: 별점 4.81
+address: 서울 종로구 자하문로6길 6
+
+name: 토속촌 삼계탕
+category: 삼계탕
+rating: 별점 4.33
+address: 서울 종로구 자하문로5길 5 토속촌
+
+name: 핫쵸 성수점
+category: 일식당
+rating: 방문자 리뷰 637
+address: 서울 성동구 왕십리로5길 9-20 1층
+
+name: 서촌계단집
+category: 해물
+rating: 별점 4.29
+address: 서울 종로구 자하문로1길 15
+
+name: 이태리국시 한남
+category: 양식
+rating: 방문자 리뷰 2604
+address: 서울 용산구 이태원로 234 2층
+
+name: 미뉴트 빠삐용 청담점
+category: 카페
+rating: 방문자 리뷰 1304
+address: 서울 강남구 도산대로51길 37 지하1층
+
+name: 진진
+category: 중식당
+rating: 방문자 리뷰 1469
+address: 서울 마포구 월드컵북로1길 60 1층 진진
+
+name: LOWIDE 서울숲
+category: 카페
+rating: 별점 4.37
+address: 서울 성동구 서울숲2길 22-1
+
+name: 카린지린가네스낵바 성수본점
+category: 요리주점
+rating: 별점 4.45
+address: 서울 성동구 왕십리로4길 10-3 1층
+
+name: 도토리가든 안국점
+category: 카페
+rating: 방문자 리뷰 1971
+address: 서울 종로구 계동길 19-8 1층
+
+name: 서교주담 합정
+category: 요리주점
+rating: 별점 4.75
+address: 서울 마포구 어울마당로5길 46 1층 서교주담 합정
+
+name: 사루카메
+category: 일본식라면
+rating: 별점 4.51
+address: 서울 마포구 연남로 15 1층
+
+name: 고도식
+category: 고기요리
+rating: 별점 4.44
+address: 서울 송파구 백제고분로45길 28
+
+name: 서보
+category: 태국음식
+rating: 방문자 리뷰 1068
+address: 서울 송파구 오금로18길 5
+
+name: 오파토
+category: 브런치
+rating: 방문자 리뷰 1269
+address: 서울 용산구 신흥로12길 4 1층
+
+name: 앤티크커피 연남점
+category: 카페
+rating: 방문자 리뷰 3149
+address: 서울 마포구 연희로 25-1 1층 앤티크커피
+
+name: 피자덕후 피자힙 압구정점
+category: 피자
+rating: 별점 4.91
+address: 서울 강남구 선릉로157길 23 2층 피자덕후 피자힙
+
+name: 호족반 청담
+category: 한식
+rating: 별점 4.35
+address: 서울 강남구 언주로164길 39 1층
+
+name: 진작 카키
+category: 한식
+rating: 방문자 리뷰 2702
+address: 서울 종로구 창덕궁1길 38 진작카키 안국점
+
+name: 진미식당
+category: 게요리
+rating: 별점 4.36
+address: 서울 마포구 마포대로 186-6
+
+name: 후추포인트
+category: 양식
+rating: 방문자 리뷰 1821
+address: 서울 강남구 봉은사로6길 30 1층
+
+name: 브레디포스트 성수점
+category: 카페
+rating: 방문자 리뷰 5054
+address: 서울 성동구 상원1길 5 1-2층
+
+name: 코코로카라
+category: 베이커리
+rating: 별점 4.53
+address: 서울 마포구 연남로1길 41
+
+name: 간판없는가게
+category: 이탈리아음식
+rating: 별점 4.47
+address: 서울 종로구 돈화문로11다길 36 1층 간판없는가게
+
+name: 쮸즈
+category: 딤섬
+rating: 별점 4.38
+address: 서울 강남구 도산대로17길 13
+
+name: 뮤직컴플렉스서울 안녕인사동점
+category: 카페
+rating: 방문자 리뷰 684
+address: 서울 종로구 인사동길 49 안녕인사동 5층 뮤직컴플렉스서울
+
+name: 82올리언즈
+category: 양식
+rating: 방문자 리뷰 2002
+address: 서울 중구 퇴계로27길 64 1층
+
+name: 연어롭다
+category: 일식당
+rating: 방문자 리뷰 1722
+address: 서울 마포구 동교로38길 42
+
+name: 진옥화할매원조닭한마리
+category: 닭요리
+rating: 별점 4.31
+address: 서울 종로구 종로40가길 18
+
+name: 올드페리도넛 한남점
+category: 도넛
+rating: 별점 4.45
+address: 서울 용산구 한남대로27길 66 2층
+
+name: 아티스트베이커리 안국
+category: 베이커리
+rating: 방문자 리뷰 2254
+address: 서울 종로구 율곡로 45 1층
+
+name: 신토불이 떡볶이 본점
+category: 떡볶이
+rating: 별점 4.35
+address: 서울 광진구 자양로43길 42
+
+name: 이문설렁탕
+category: 곰탕
+rating: 별점 4.26
+address: 서울 종로구 우정국로 38-13
+
+name: 카페 페퍼
+category: 카페
+rating: 별점 4.45
+address: 서울 송파구 백제고분로45길 12 2층 카페페퍼
+
+name: 소바식당
+category: 소바
+rating: 별점 4.38
+address: 서울 성동구 연무장7가길 6 1층
+
+name: 망원동즉석우동 본점
+category: 우동
+rating: 별점 4.47
+address: 서울 마포구 동교로 83
+
+name: 을지로보석
+category: 오뎅
+rating: 별점 4.24
+address: 서울 중구 마른내로 11-10 3층
+
+name: 마일스톤 커피
+category: 카페
+rating: 별점 4.63
+address: 서울 강남구 논현로159길 49
+
+name: 1인1잔
+category: 카페
+rating: 별점 4.33
+address: 서울 은평구 연서로 534
+
+name: 육미안 연남점
+category: 소고기구이
+rating: 방문자 리뷰 1046
+address: 서울 마포구 동교로38길 5 2층
+
+name: 아루히
+category: 일식당
+rating: 별점 4.81
+address: 서울 영등포구 여의나루로 42 2층
+
+name: 베통 성수 플래그십
+category: 카페
+rating: 별점 4.5
+address: 서울 성동구 연무장7가길 8 베통 성수
+
+name: 툭툭누들타이
+category: 태국음식
+rating: 별점 4.28
+address: 서울 마포구 성미산로 161-8 2층
+
+name: 백제정육점
+category: 고기요리
+rating: 별점 4.4
+address: 서울 종로구 종로35길 34
+
+name: 진중 우육면관
+category: 아시아음식
+rating: 별점 4.52
+address: 서울 종로구 청계천로 75-2
+
+name: 유즈라멘
+category: 일본식라면
+rating: 별점 4.52
+address: 서울 중구 만리재로 217
+
+name: 정돈 대학로본점
+category: 돈가스
+rating: 별점 4.48
+address: 서울 종로구 대학로9길 12 지층
+
+name: 최강금돈까스
+category: 돈가스
+rating: 별점 4.58
+address: 서울 마포구 월드컵로3길 31-30
+
+name: 한사발포차 혜화점
+category: 요리주점
+rating: 방문자 리뷰 842
+address: 서울 종로구 대명길 19-8 1층
+
+name: 비아 톨레도 파스타바
+category: 스파게티
+rating: 방문자 리뷰 27
+address: 서울 용산구 원효로83길 7-2 1층
+
+name: 천하보쌈
+category: 보쌈
+rating: 방문자 리뷰 1701
+address: 서울 종로구 창덕궁1길 8 천하보쌈
+
+name: 정인면옥 본점
+category: 냉면
+rating: 별점 4.23
+address: 서울 영등포구 국회대로76길 10 기독교침례회총회빌딩 1층
+
+name: 온량
+category: 양식
+rating: 별점 4.53
+address: 서울 성동구 서울숲4길 26-10 1층
+
+name: 쯔루하시 후게츠 명동점
+category: 일식당
+rating: 별점 4.5
+address: 서울 중구 명동8길 21-5 해암빌딩 2층
+
+name: 초원
+category: 고기요리
+rating: 별점 4.47
+address: 서울 용산구 한강대로80길 7
+
+name: 청와옥 본점
+category: 순댓국
+rating: 별점 4.45
+address: 서울 송파구 위례성대로 48 반도빌딩 1층
+
+name: 저스트텐동 연남본점
+category: 일식당
+rating: 별점 4.5
+address: 서울 마포구 동교로46길 3
+
+name: 멘야하나비 송파본점
+category: 일본식라면
+rating: 별점4.51
+address: 서울 송파구 백제고분로45길 38 1층 멘야하나비 잠실 본점
+
+name: 진지아
+category: 중식당
+rating: 별점 4.58
+address: 서울 송파구 백제고분로41길 12-9
+
+name: 정육면체 신촌점
+category: 아시아음식
+rating: 방문자 리뷰 3816
+address: 서울 서대문구 연세로5다길 22-8 1층
+
+name: 어머니대성집
+category: 한식
+rating: 별점 4.36
+address: 서울 동대문구 왕산로11길 4
+
+name: 리정원 연희점
+category: 고기요리
+rating: 방문자 리뷰 1529
+address: 서울 서대문구 연희맛로 4
+
+name: 구구당
+category: 퓨전음식
+rating: 별점 4.51
+address: 서울 강남구 강남대로102길 35 구구당
+
+name: 보니스피자펍
+category: 피자
+rating: 별점 4.47
+address: 서울 용산구 신흥로3길 2
+
+name: 육미안 혜화점
+category: 소고기구이
+rating: 별점 4.42
+address: 서울 종로구 창경궁로 246-4 1층 육미안
+
+name: 비틀스타코 서순라점
+category: 양식
+rating: 방문자 리뷰 693
+address: 서울 종로구 서순라길 89-7 1층
+
+name: 팻어케이크
+category: 카페
+rating: 방문자 리뷰 1286
+address: 서울 송파구 백제고분로45길 9 2층
+
+name: 하동관 명동본점
+category: 곰탕
+rating: 별점 4.06
+address: 서울 중구 명동9길 12
+
+name: 마리오네
+category: 이탈리아음식
+rating: 별점 4.53
+address: 서울 성동구 광나루로2길 23-1 1층
+
+name: 성수명당
+category: 요리주점
+rating: 별점 4.43
+address: 서울 성동구 연무장19길 10 1층
+
+name: 도토리브라더스
+category: 일식당
+rating: 별점 4.28
+address: 서울 종로구 경희궁길 41 1층 도토리브라더스
+
+name: 벤베누토
+category: 이탈리아음식
+rating: 별점 4.8
+address: 서울 성북구 동소문로20나길 39 DH네상스호텔 2층
+
+name: 야상해
+category: 딤섬
+rating: 별점 4.58
+address: 서울 용산구 이태원로23길 6
+
+name: 브레디포스트 용산점
+category: 카페
+rating: 방문자 리뷰 2630
+address: 서울 용산구 한강대로44길 6 2층
+
+name: bd버거 성수동 연무장길카페거리
+category: 햄버거
+rating: 별점 4.53
+address: 서울 성동구 성수이로14길 7 2층 bd버거 성수
+
+name: 데이릿
+category: 한식
+rating: 방문자 리뷰 409
+address: 서울 성동구 상원1길 39 B1
+
+name: 5to7
+category: 카페
+rating: 별점 4.3
+address: 서울 성동구 서울숲2길 44-13 1층
+
+name: 도동집
+category: 한식
+rating: 별점 4.27
+address: 서울 용산구 후암로48길 1
+
+name: 영일분식
+category: 종합분식
+rating: 별점 4.35
+address: 서울 영등포구 도림로141가길 34-1
+
+name: 프로토콜 연희점
+category: 카페
+rating: 별점 4.77
+address: 서울 서대문구 연희로 109 2층
+
+name: 고가빈커리하우스
+category: 패밀리레스토랑
+rating: 별점 4.33
+address: 서울 종로구 경희궁2길 7 3층
+
+name: 별미곱창
+category: 곱창
+rating: 별점 4.48
+address: 서울 송파구 오금로11길 11 1층
+
+name: 야키토리 나루토 상수
+category: 이자카야
+rating: 별점 4.88
+address: 서울 마포구 독막로9길 26 반지층 야키토리나루토
+
+name: 춘천한옥집
+category: 한식
+rating: 별점 4.36
+address: 서울 강남구 강남대로102길 29 지하1층
+
+name: 발리문
+category: 아시아음식
+rating: 별점 4.62
+address: 서울 마포구 동교로 248-1 2층
+
+name: 타파코파
+category: 스페인음식
+rating: 방문자 리뷰 1287
+address: 서울 용산구 한강대로54길 29 1층
+
+name: 오이지 대학로
+category: 한식
+rating: 별점 4.5
+address: 서울 종로구 대학로9길 33
+
+name: 뉴오더클럽 연남
+category: 피자
+rating: 방문자 리뷰 1557
+address: 서울 마포구 동교로34길 3
+
+name: 카이센동우니도
+category: 일식당
+rating: 별점 4.84
+address: 서울 강남구 압구정로2길 15 1층 카이센동우니도
+
+name: 나리의 집
+category: 돼지고기구이
+rating: 별점 4.36
+address: 서울 용산구 이태원로 245
+
+name: 초이다이닝 송파점
+category: 일식당
+rating: 방문자 리뷰 6533
+address: 서울 송파구 백제고분로45길 21-1 2층
+
+name: 온센 강남점
+category: 일식당
+rating: 별점 4.35
+address: 서울 서초구 서초대로73길 42 리가스퀘어 1층 111호
+
+name: 솔솥 연남점
+category: 한식
+rating: 별점 4.51
+address: 서울 마포구 동교로38길 35
+
+name: 카페 공명 연남점
+category: 카페
+rating: 별점 4.5
+address: 서울 마포구 연희로 11 1층 카페 공명 연남
+
+name: 아오이토리
+category: 베이커리
+rating: 별점 4.44
+address: 서울 마포구 와우산로29길 8 K.C빌딩
+
+name: 자연도소금빵in 성수
+category: 베이커리
+rating: 방문자 리뷰 2303
+address: 서울 성동구 연무장길 56-1 1층
+
+name: 인왕산 대충유원지
+category: 카페
+rating: 별점 4.38
+address: 서울 종로구 필운대로 46 4층
+
+name: 플롭 안국
+category: 피자
+rating: 별점 4.6
+address: 서울 종로구 북촌로2길 5
+
+name: 이츠야
+category: 돈가스
+rating: 방문자 리뷰 134
+address: 서울 마포구 양화로6길 99-9
+
+name: 파치노 에스프레소 바
+category: 카페
+rating: 방문자 리뷰 508
+address: 서울 강남구 강남대로162길 37 1층(신사동)
+
+name: 리틀넥 청담
+category: 이탈리아음식
+rating: 별점 4.49
+address: 서울 강남구 도산대로51길 17
+
+name: Summer Lane
+category: 브런치
+rating: 방문자 리뷰 1282
+address: 서울 용산구 이태원로55가길 49 1층 summerlane
+
+name: 쿠나
+category: 이탈리아음식
+rating: 별점 4.64
+address: 서울 성동구 연무장5길 9-16 105호
+
+name: 개나리아구찜 본점
+category: 한식
+rating: 별점 4.64
+address: 서울 송파구 오금로15길 7-8 1층
+
+name: 올딧세
+category: 카페
+rating: 방문자 리뷰 601
+address: 서울 용산구 한강대로21길 29-16 1층
+
+name: 길목
+category: 돼지고기구이
+rating: 방문자 리뷰 809
+address: 서울 강남구 영동대로129길 10 1층
+
+name: 식당네오
+category: 이자카야
+rating: 방문자 리뷰 34
+address: 서울 송파구 삼전로12길 4 101호
+
+name: 광화문국밥
+category: 한식
+rating: 별점 4.44
+address: 서울 중구 세종대로21길 53
+
+name: 정식당
+category: 한식
+rating: 방문자 리뷰 1686
+address: 서울 강남구 선릉로158길 11
+
+name: 만동제과 연남점
+category: 베이커리
+rating: 별점 4.51
+address: 서울 서대문구 연희로 32
+
+name: 호수집
+category: 닭요리
+rating: 별점 4.27
+address: 서울 중구 청파로 443
+
+name: 홈보이서울
+category: 중식당
+rating: 별점 4.38
+address: 서울 종로구 사직로 127-14 1층 홈보이서울
+
+name: 뉴욕아파트먼트
+category: 양식
+rating: 방문자 리뷰 4643
+address: 서울 마포구 월드컵로3길 14 마포한강2차푸르지오상가 217호
+
+name: 타코튜즈데이 성수 본점
+category: 멕시코
+rating: 방문자 리뷰 14850
+address: 서울 성동구 왕십리로10길 10 1층
+
+name: 자하손만두
+category: 만두
+rating: 방문자 리뷰 2976
+address: 서울 종로구 백석동길 12
+
+name: 죠죠 성수점
+category: 일식당
+rating: 방문자 리뷰 2283
+address: 서울 성동구 연무장17길 7 1층
+
+name: 디슬로우 청담
+category: 피자
+rating: 별점 4.85
+address: 서울 강남구 선릉로160길 7 지하1층
+
+name: 본디 잠실본점
+category: 고기요리
+rating: 방문자 리뷰 3198
+address: 서울 송파구 백제고분로41길 18 1층 일부
+
+name: 러스트 베이커리
+category: 베이커리
+rating: 방문자 리뷰 7126
+address: 서울 영등포구 경인로79길 15 러스트베이커리
+
+name: 터틀힙 연남
+category: 카페
+rating: 방문자 리뷰 1911
+address: 서울 마포구 연남로1길 44 1층 터틀힙
+
+name: 남포면옥
+category: 냉면
+rating: 별점 4.22
+address: 서울 중구 을지로3길 24
+
+name: 중앙감속기
+category: 퓨전음식
+rating: 별점 4.55
+address: 서울 성동구 성수일로6길 7-1 1층 중앙감속기
+
+name: 이국 도산
+category: 양식
+rating: 방문자 리뷰 762
+address: 서울 강남구 언주로164길 17 지하1층
+
+name: 유림면
+category: 국수
+rating: 별점 4.25
+address: 서울 중구 서소문로 139-1
+
+name: 카와카츠 본점
+category: 돈가스
+rating: 방문자 리뷰 4477
+address: 서울 마포구 동교로 126 1층 102호
+
+name: 투떰즈업
+category: 베이커리
+rating: 방문자 리뷰 1421
+address: 서울 마포구 희우정로16길 53 1층
+
+name: 카와카츠 합정점
+category: 돈가스
+rating: 별점 4.81
+address: 서울 마포구 양화로 78-7 1층 카와카츠
+
+name: 매운향솥 마라탕 마라샹궈
+category: 중식당
+rating: 별점 4.48
+address: 서울 광진구 동일로18길 61 1층
+
+name: 을지 장만옥
+category: 요리주점
+rating: 별점 4.26
+address: 서울 중구 을지로12길 12 1층
+
+name: 오제제 광화문
+category: 일식당
+rating: 방문자 리뷰 2488
+address: 서울 중구 세종대로 136 지하 3층
+
+name: 카페폭포
+category: 카페
+rating: 방문자 리뷰 794
+address: 서울 서대문구 연희로 262-24
+
+name: 양키통닭 본점
+category: 맥주
+rating: 별점 4.48
+address: 서울 영등포구 도림로139길 13
+
+name: 소바연구소 신촌본점
+category: 소바
+rating: 방문자 리뷰 3987
+address: 서울 서대문구 명물길 50-9 1층
+
+name: 부촌육회 본점
+category: 고기요리
+rating: 별점 4.51
+address: 서울 종로구 종로 200-12
+
+name: 훼미리손칼국수보쌈
+category: 칼국수
+rating: 방문자 리뷰 1857
+address: 서울 성동구 왕십리로 134
+
+name: 다운타우너 한남
+category: 햄버거
+rating: 별점 4.58
+address: 서울 용산구 대사관로5길 12 1층 다운타우너 한남점
+
+name: 해피니스 대학로점
+category: 중식당
+rating: 방문자 리뷰 1513
+address: 서울 종로구 대학로11길 40 세훈빌딩 1층
+
+name: 키에리
+category: 케이크전문
+rating: 별점 4.1
+address: 서울 용산구 이태원로26길 16-8
+
+name: 우와
+category: 일식당
+rating: 별점 4.5
+address: 서울 강남구 강남대로158길 17 1층
+
+name: 월래순교자관
+category: 중식당
+rating: 별점 4.33
+address: 서울 구로구 디지털로19길 12
+
+name: 황금콩밭
+category: 두부요리
+rating: 별점 4.37
+address: 서울 마포구 마포대로16길 9
+
+name: 크레이지카츠
+category: 돈가스
+rating: 별점 4.56
+address: 서울 마포구 포은로2나길 44
+
+name: 떡도리탕 강남본점
+category: 닭볶음탕
+rating: 별점 4.47
+address: 서울 강남구 테헤란로1길 28-9 1층
+
+name: 건대사시미
+category: 생선회
+rating: 별점 4.46
+address: 서울 광진구 아차산로33길 23
+
+name: 이진칸
+category: 이자카야
+rating: 별점 4.74
+address: 서울 용산구 보광로 124 3층 이진칸
+
+name: 노티드 스튜디오 청담
+category: 카페
+rating: 별점 4.44
+address: 서울 강남구 도산대로53길 15 1층
+
+name: 세컨디포레스트 송리단길점
+category: 스파게티
+rating: 별점 4.69
+address: 서울 송파구 백제고분로45길 6 1층
+
+name: 피자네버슬립스 합정상수점
+category: 피자
+rating: 별점 4.57
+address: 서울 마포구 양화로6길 73 4층 피자네버슬립스
+
+name: 이태리국시 성수
+category: 양식
+rating: 방문자 리뷰 555
+address: 서울 성동구 왕십리로8길 18-1 3층
+
+name: 애성회관한우곰탕
+category: 곰탕
+rating: 별점 4.38
+address: 서울 중구 남대문로5길 23 세창빌딩 1층
+
+name: 스파게티가있는풍경 광화문점
+category: 스파게티
+rating: 방문자 리뷰 1009
+address: 서울 종로구 새문안로 103-1 2층
+
+name: 살라댕템플
+category: 양식
+rating: 방문자 리뷰 748
+address: 서울 성동구 성수이로16길 32
+
+name: 스미카츠 압구정 본점
+category: 돈가스
+rating: 방문자 리뷰 1662
+address: 서울 강남구 선릉로157길 23-3 지상 1층 101호
+
+name: 더베이커스테이블
+category: 베이커리
+rating: 별점 4.28
+address: 서울 용산구 녹사평대로 244-1
+
+name: 빠니드 엠 무니
+category: 카페
+rating: 방문자 리뷰 1165
+address: 서울 강남구 압구정로56길 16
+
